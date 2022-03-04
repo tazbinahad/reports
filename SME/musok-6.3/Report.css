@@ -119,7 +119,9 @@ table {
     page-break-inside: avoid;
   }
 }
-
+tr {
+  page-break-inside: avoid;
+}
 /* Main Body Css */
 .headline {
   position: absolute;

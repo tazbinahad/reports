@@ -121,6 +121,16 @@ table {
 }
 
 /* Main Body Css */
+.headline {
+  position: absolute;
+  top: 30px;
+  right: 0;
+  font-weight: 600;
+  border: 3px solid;
+  padding: 2px;
+  padding-left: 4px;
+  padding-right: 4px;
+}
 /* Header */
 .page .header {
   display: -webkit-box;
